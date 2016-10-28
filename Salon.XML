@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<salon>
+    <alumnos>
+        <edad>10</edad>
+        <grado>4</grado>
+        <nombre>Javier</nombre>
+    </alumnos>
+    <alumnos>
+        <edad>12</edad>
+        <grado>6</grado>
+        <nombre>Alberto</nombre>
+    </alumnos>
+    <capacidad>12</capacidad>
+    <descripcion>Material 4x 6 mts</descripcion>
+    <no>3</no>
+</salon>
